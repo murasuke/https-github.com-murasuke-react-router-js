@@ -2,11 +2,11 @@
 
 react-routerの勉強用に下記チュートリアルを実装。
 
-[react-router@v4を使ってみよう：シンプルなtutorial(https://qiita.com/muijp/items/b4ca1773580317e7112e)
+[react-router@v4を使ってみよう：シンプルなtutorial](https://qiita.com/muijp/items/b4ca1773580317e7112e)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##機能
+## 機能
 - リンク
 - いいねのカウントアップ(状態をトップで管理していないので、画面遷移すると消えてしまいます）
 
